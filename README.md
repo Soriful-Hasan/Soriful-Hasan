@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-<img src="https://ibb.co/Zp4xrzrR" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/ycvqCFCm/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Banner" width="100%" />
 
