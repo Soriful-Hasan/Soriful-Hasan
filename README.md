@@ -48,7 +48,6 @@ Skills:   HTML / CSS / JS / REACT /Node js / Mongo DB
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soriful-Hasan)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soriful-Hasan)](https://github.com/anuraghazra/github-readme-stats)
 
