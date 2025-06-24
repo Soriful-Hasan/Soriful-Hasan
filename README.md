@@ -18,7 +18,7 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 ✅ Vercel / Render / Firebase Hosting <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soriful-Hasan&layout=compact)
 
 
 
