@@ -8,7 +8,17 @@ I specialize in building modern, responsive, and dynamic web applications using 
 
 I'm currently deepening my skills in React and Node.js, and I enjoy turning ideas into real-world applications. I’m also open to collaboration on exciting full-stack projects and constantly learning to grow as a developer.
 
-Skills:   HTML / CSS / JS / REACT /Node js / Mongo DB
+## 👨‍💻 Skills & Experiance: 
+✅ HTML5 / CSS3 / Tailwind CSS <br>
+✅ JavaScript (ES6+) / React.js <br>
+✅ Node.js / Express.js <br>
+✅ MongoDB / Mongoose <br>
+✅ Firebase Auth / JWT <br>
+✅ Git / GitHub / Postman <br>
+✅ Vercel / Render / Firebase Hosting <br>
+
+
+
 
 - 🌱 I’m currently learning React.js and Node.js more deeply 
 - 👯 I’m looking to collaborate on  I want to collaborate on MERN stack projects 
