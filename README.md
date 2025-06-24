@@ -12,7 +12,7 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 ✅ HTML5 / CSS3 / Tailwind CSS <br>
 ✅ JavaScript (ES6+) / React.js <br>
 ✅ Node.js / Express.js <br>
-✅ MongoDB / Mongoose <br>
+✅ MongoDB <br>
 ✅ Firebase Auth / JWT <br>
 ✅ Git / GitHub / Postman <br>
 ✅ Vercel / Render / Firebase Hosting <br>
