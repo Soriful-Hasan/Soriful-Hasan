@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Soriful Hasan
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Soriful+Hasan)](https://git.io/typing-svg)
 #### I am a Full Stack Web Developer.
 ![I am a Full Stack Web Developer.](https://i.ibb.co/ycvqCFCm/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
 
