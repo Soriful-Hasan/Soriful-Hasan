@@ -20,12 +20,7 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 
 
 
-- 🌱 I’m currently learning React.js and Node.js more deeply 
-- 👯 I’m looking to collaborate on  I want to collaborate on MERN stack projects 
-- 🤔 I’m looking for help with I’m looking for help with performance optimization 
-- 💬 Ask me about  Ask me about React, Node.js, MongoDB 
-- 📫 How to reach me:  sorifullhasan300@gmail.com 
-- ⚡ Fun fact: I can build a full-stack app in a day! 
+
 
 
 
