@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Soriful+Hasan)](https://git.io/typing-svg)
+## Hi, I'm Soriful Hasan 👋
 #### I am a Full Stack Web Developer.
 ![I am a Full Stack Web Developer.](https://i.ibb.co/ycvqCFCm/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
 
@@ -49,7 +49,6 @@ Skills:   HTML / CSS / JS / REACT /Node js / Mongo DB
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soriful-Hasan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soriful-Hasan&show_icons=true&count_private=true)  
+ 
 
