@@ -57,7 +57,5 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/sorifulhasan3000)   [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/hasan_soriful)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@codingwithhasan300)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-soriful-hasan-53a9b52b3/?trk=opento_sprofile_details)  
 
  
-## 📫 Contact Information
 
-- 📍 **Location:** Sylhet, Bangladesh  
-- 📧 **Email:** sorifullhasan300@gmail.com
+
