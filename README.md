@@ -63,14 +63,14 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Iftekhar-007&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekhar-007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soriful-Hasan&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriful-Hasan&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iftekhar-007&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soriful-Hasan&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 
