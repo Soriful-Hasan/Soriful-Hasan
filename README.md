@@ -50,13 +50,14 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+
+</div>
+
 ## 📊 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Iftekhar-007&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekhar-007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
-
-</div>
 
 
 ## ☕ Connect with me!
