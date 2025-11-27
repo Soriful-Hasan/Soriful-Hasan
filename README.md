@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 Hi, I'm Md Soriful Hasan — a passionate and dedicated MERN Stack Web Developer from Bangladesh 🇧🇩.
-I specialize in building modern, responsive, and dynamic web applications using the MERN Stack (MongoDB, Express.js, React, Node.js).
+I specialise in building modern, responsive, and dynamic web applications using the MERN Stack (MongoDB, Express.js, React, Node.js).
 
-I'm currently deepening my skills in React and Node.js, and I enjoy turning ideas into real-world applications. I’m also open to collaboration on exciting full-stack projects and constantly learning to grow as a developer.
+I'm currently deepening my skills in React and Node.js, and I enjoy turning ideas into real-world applications. I’m also open to collaborating on exciting full-stack projects and to constantly learning and growing as a developer.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML5 / CSS3 / Tailwind CSS <br>
