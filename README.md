@@ -37,9 +37,9 @@ I enjoy turning real-world problems into clean, efficient solutions. I’m conti
 
 ## 📊 GitHub Overview
 
-![Soriful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soriful-Hasan&show_icons=true&theme=tokyonight)
+![Soriful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorifulhasan300&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soriful-Hasan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sorifulhasan300&layout=compact&theme=tokyonight)
 
 ---
 
