@@ -54,14 +54,6 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 </div>
 
 
-## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Soriful-Hasan&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriful-Hasan&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soriful-Hasan&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-
 
 ## ☕ Connect with me!
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/sorifulhasan3000)   [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/hasan_soriful)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@codingwithhasan300)
